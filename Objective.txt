@@ -1,8 +1,0 @@
-They want to understand important insights based on various attributes in the dataset to increase revenue such as:
-
-Distribution of property listings across different neighbourhoods.
-Relationship between customer preferences and property locations.
-The distribution of property listings across different property types.
-The types of properties that are preferred by customers.
-
-
